@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [],
+  "schema:description": "",
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-738_002_001_Heublein_Inc_Summary_Comments_on_Forecasts_of_Vinifera_Development_Corporation.pdf"
+  },
+  "schema:creator": "Arthur Young and Company",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1973-05"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3v11vt8w"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-738_002_001_Heublein_Inc_Summary_Comments_on_Forecasts_of_Vinifera_Development_Corporation_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

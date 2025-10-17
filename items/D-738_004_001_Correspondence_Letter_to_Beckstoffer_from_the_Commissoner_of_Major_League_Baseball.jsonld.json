@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [],
+  "schema:description": "",
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-738_004_001_Correspondence_Letter_to_Beckstoffer_from_the_Commissoner_of_Major_League_Baseball.pdf"
+  },
+  "schema:creator": "Ueberroth, Peter V.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1988-08-12"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3736m95t"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-738_004_001_Correspondence_Letter_to_Beckstoffer_from_the_Commissoner_of_Major_League_Baseball_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Correspondence: Letter to Beckstoffer from the Commissoner of Major League Baseball",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}
