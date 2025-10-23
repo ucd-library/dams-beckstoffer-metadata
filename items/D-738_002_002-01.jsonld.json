@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-738_002_002-01.pdf"
+  },
+  "schema:about": [
+    {
+      "@id": "correspondence"
+    }
+  ],
+  "schema:creator": "Murray, G. H. jr.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@value": "1971-11-15"
+  },
+  "schema:description": "A character analysis on Beckstoffer from a managment consultant firm.",
+  "schema:identifier": [
+    "ark:/87293/d3qb9vd6f",
+    "D-738, Box:2, Folder:2"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-738_002_002-01_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Correspondence to Beckstoffer from Murray",
+  "schema:material": "",
+  "schema:publisher": ""
+}

@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-738_001_001-01.pdf"
+  },
+  "schema:about": [
+    {
+      "@id": "BV"
+    }
+  ],
+  "schema:creator": "Beaulieu Vineyard",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1965-02"
+  },
+  "schema:description": "Grape sale agreement between Mr. and Mrs. John Kobil (seller), and Beaulieu Vineyard (buyer) for the Gamay of Napa grapes.",
+  "schema:identifier": [
+    "ark:/87293/d3c24qw4b",
+    "D-738, Box:1, Folder:1"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-738_001_001-01_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Beaulieu Vineyard Grape Sale Agreement with Mr. and Mrs. John Kobil",
+  "schema:material": "",
+  "schema:publisher": ""
+}
