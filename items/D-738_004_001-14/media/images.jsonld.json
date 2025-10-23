@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../D-738_004_001-07_from_Gerald_Ford.pdf"
+    "@id": "@base:../D-738_004_001-14.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {

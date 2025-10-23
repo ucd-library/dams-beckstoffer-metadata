@@ -20,7 +20,7 @@
   "schema:about": [],
   "schema:creator": "Carter, Jimmy",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1987-06-12"
   },
   "schema:description": "",

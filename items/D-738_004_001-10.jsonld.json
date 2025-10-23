@@ -20,8 +20,8 @@
   "schema:about": [],
   "schema:creator": "Quinn, John R.",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
-    "@value": "1991-04-04"
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1992-11-24"
   },
   "schema:description": "",
   "schema:identifier": [

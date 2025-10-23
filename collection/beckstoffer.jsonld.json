@@ -16,17 +16,28 @@
    "ucdlib:hasLabel": {
     "@id": "@base:/labels"
     },
+    "schema:about": [
+      {
+        "@id": "http://id.worldcat.org/fast/1175907"
+      },
+      {
+        "@id": "http://id.worldcat.org/fast/1206424"
+      },
+      {
+        "@id": "http://id.worldcat.org/fast/990079"
+      }
+    ],
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "2025"
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2025-10-23"
   },
-  "schema:description": "[Full collection finding aid here](https://oac.cdlib.org/findaid/ark:/13030/c82j6kv5).",
+  "schema:description": "This collection contains the corporate records of Beckstoffer Vineyards, correspondence, land assessor's maps, and some photographs. The bulk of the collection focuses on Andy Beckstoffer's work within the grape industry, Napa Valley preservation efforts, as well as his role in the establishment of organizations such as the Napa Valley Grape Growers Association (currently known as the Napa Valley Grapegrowers), and the Rutherford Dust Society. Also included are materials on the To Kalon vineyard, including lawsuits with Robert Mondavi Winery. There is also a small amount of material on labor unions, Cesar Chavez, and the UFW. \n\n The finding aid for the full collection is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c82j6kv5).",
   "schema:identifier": [
     "ark:/87293/d32f7k045",
     "D-738"
   ],
   "schema:image": {
-    "@id": ""
+    "@id": "info:fedora/item/ark:/87293/d3dv1cw87/media/images/D-738_004_001-20_0001_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

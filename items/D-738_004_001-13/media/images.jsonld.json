@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../D-738_004_001-07_from_Donald_Rumsfeld.pdf"
+    "@id": "@base:../D-738_004_001-13.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {

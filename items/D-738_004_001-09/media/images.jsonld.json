@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../D-738_004_001-07_from_Archbishop_of_San_Francisco-1991.pdf"
+    "@id": "@base:../D-738_004_001-09.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {
