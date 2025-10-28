@@ -14,7 +14,7 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
-  "ebucore:filename": "D-738_004_001-07_from_Secretary_of_the_Army_0001_recto.tif",
+  "schema:position": "002",
+  "ebucore:filename": "D-738_004_001-18_0001_verso.tif",
   "ebucore:hasMimeType": "image/tiff"
 }

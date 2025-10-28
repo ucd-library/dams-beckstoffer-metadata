@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../D-738_004_001-07_from_Archbishop_of_Los_Angeles.pdf"
+    "@id": "@base:../D-738_004_001-08.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {

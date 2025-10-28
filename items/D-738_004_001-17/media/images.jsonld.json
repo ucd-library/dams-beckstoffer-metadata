@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../D-738_004_001-07_from_Secretary_of_the_Army.pdf"
+    "@id": "@base:../D-738_004_001-17.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {

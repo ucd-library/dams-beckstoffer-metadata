@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../D-738_004_001-07_from_the_Commissoner_of_Major_League_Baseball.pdf"
+    "@id": "@base:../D-738_004_001-18.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {

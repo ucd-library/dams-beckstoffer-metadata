@@ -14,7 +14,7 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "002",
-  "ebucore:filename": "D-738_004_001-07_from_Archbishop_of_Los_Angeles_0001_verso.tif",
+  "schema:position": "001",
+  "ebucore:filename": "D-738_004_001-08_0001_recto.tif",
   "ebucore:hasMimeType": "image/tiff"
 }
