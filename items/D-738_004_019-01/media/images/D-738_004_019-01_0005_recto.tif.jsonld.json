@@ -14,7 +14,7 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "009",
+  "schema:position": "007",
   "ebucore:filename": "D-738_004_019-01_0005_recto.tif",
   "ebucore:hasMimeType": "image/tiff"
 }
