@@ -43,7 +43,7 @@ This digital collection offers a sample of the full collection, which includes t
     "D-738"
   ],
   "schema:image": {
-    "@id": "info:fedora/item/ark:/87293/d39w0968g/media/images/D-738_034_002-03_0001_recto.tif"
+    "@id": "@base:/Beckstoffer_digital_collection_image.jpeg"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
