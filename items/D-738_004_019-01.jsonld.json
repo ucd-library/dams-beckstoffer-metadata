@@ -17,7 +17,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_019-01.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
+    }
+  ],
   "schema:creator": "Beckstoffer Vineyards",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

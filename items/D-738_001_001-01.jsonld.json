@@ -19,10 +19,13 @@
   },
   "schema:about": [
     {
-      "@id": "BV"
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
     }
   ],
-  "schema:creator": "Beaulieu Vineyard",
+  "schema:creator": "Beaulieu Vineyard (Calif.)",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
     "@value": "1965-02"

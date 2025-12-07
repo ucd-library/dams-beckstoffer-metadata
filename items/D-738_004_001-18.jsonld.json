@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-18.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/843535"
+    }
+  ],
   "schema:creator": "Ueberroth, Peter V.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1988-08-12"
   },
-  "schema:description": "",
+  "schema:description": "A letter from Michael P. W. Stone, Under Secretary of the Army.",
   "schema:identifier": [
     "ark:/87293/d3736m95t",
     "D-738, Box:4, Folder:1"

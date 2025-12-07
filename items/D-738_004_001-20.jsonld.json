@@ -17,8 +17,18 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-20.pdf"
   },
-  "schema:about": [],
-  "schema:creator": "Tchelistcheff, Andre",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    }
+  ],
+  "schema:creator": "Tchelistcheff, Andr, 1901-1994",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1970-05-24"

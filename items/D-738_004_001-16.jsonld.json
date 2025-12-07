@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-16.pdf"
   },
-  "schema:about": [],
-  "schema:creator": "Carter, Jimmy",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1178394"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204623"
+    }
+  ],
+  "schema:creator": "Carter, Jimmy, 1924-2024",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1989-09-28"
   },
-  "schema:description": "",
+  "schema:description": "Thank you letter from Margaret Thatcher to Beckstoffer.",
   "schema:identifier": [
     "ark:/87293/d3gm81x11",
     "D-738, Box:4, Folder:1"

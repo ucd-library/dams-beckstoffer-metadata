@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-13.pdf"
   },
-  "schema:about": [],
-  "schema:creator": "Rumsfeld, Donald",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1075723"
+    }
+  ],
+  "schema:creator": "Rumsfeld, Donald, 1932-2021",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "2001-01-22"
   },
-  "schema:description": "",
+  "schema:description": "A letter from Gerald Ford regarding participation at a YPO event in Hawaii.",
   "schema:identifier": [
     "ark:/87293/d3r49gj01",
     "D-738, Box:4, Folder:1"

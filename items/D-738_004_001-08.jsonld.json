@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-08.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/833378"
+    }
+  ],
   "schema:creator": "Mahony, Roger",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1991-07-19"
   },
-  "schema:description": "",
+  "schema:description": "A letter from the Archbishop of San Francisco regarding Beckstoffer's visit to Italy.",
   "schema:identifier": [
     "ark:/87293/d30p0x00h",
     "D-738, Box:4, Folder:1"

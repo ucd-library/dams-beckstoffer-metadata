@@ -17,13 +17,23 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-06.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/800596"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/991587"
+    }
+  ],
   "schema:creator": "Wentworth, Rand",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "2006-10-17"
   },
-  "schema:description": "",
+  "schema:description": "A letter about the passage of the Pension Protection Act of 2006.",
   "schema:identifier": [
     "ark:/87293/d3s46hf27",
     "D-738, Box:4, Folder:1"

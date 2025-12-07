@@ -17,7 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_034_002-02.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/990029"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1020686"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/990260"
+    }
+  ],
   "schema:creator": "",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

@@ -17,13 +17,23 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_015_005-06.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168262"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    }
+  ],
   "schema:creator": "",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
     "@value": "1976-12"
   },
-  "schema:description": "",
+  "schema:description": "Report on wold wine markets and Napa County wineries.",
   "schema:identifier": [
     "ark:/87293/d3b27q04h",
     "D-738, Box:15, Folder:5"

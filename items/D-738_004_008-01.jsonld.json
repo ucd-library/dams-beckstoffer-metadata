@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_008-01.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/532793"
+    }
+  ],
   "schema:creator": "Beckstoffer, W. Andrew",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "2010-07-07"
   },
-  "schema:description": "",
+  "schema:description": "Comments of W. Andrew Beckstoffer before Listening Sessions on America's Great Outdoors at UC Davis.",
   "schema:identifier": [
     "ark:/87293/d3tx35f45",
     "D-738, Box:4, Folder:8"

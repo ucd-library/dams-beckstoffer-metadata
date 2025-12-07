@@ -14,15 +14,105 @@
         "http://schema.org/name": "Wine and wine making"
     },
     {
-   		"@id": "http://id.worldcat.org/fast/1206424",
-   		"http://schema.org/name": "California--Napa County"
+   		"@id": "http://id.worldcat.org/fast/1273793",
+   		"http://schema.org/name": "California--Napa Valley"
     },
     {
     	"@id": "http://id.worldcat.org/fast/990079",
     	"http://schema.org/name": "Labor movement"
     },
     {
-    	"@id": "",
-    	"http://schema.org/name": ""
+    	"@id": "http://id.worldcat.org/fast/1175961",
+    	"http://schema.org/name":  "Wine industry"
+    },
+    {
+    	"@id": "http://id.worldcat.org/fast/1204565",
+    	"http://schema.org/name": "Italy"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260",
+      "http://schema.org/name": "Viticulture"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168262",
+      "http://schema.org/name": "Viticulture--Economic aspects"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/801206",
+      "http://schema.org/name": "Agricultural prices"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/800596",
+      "http://schema.org/name": "Agricultural conservation"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1178394",
+      "http://schema.org/name": "Women Prime Ministers"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204623",
+      "http://schema.org/name": "Great Britain"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175997",
+      "http://schema.org/name": "Wineries"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/833378",
+      "http://schema.org/name": "Bishops"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204540",
+      "http://schema.org/name": "California--Los Angeles"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204481",
+      "http://schema.org/name": "California--San Francisco"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/990029",
+      "http://schema.org/name": "Labor leaders"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/532793",
+      "http://schema.org/name": "United States. Forest Service"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/533495",
+      "http://schema.org/name": "California. Legislature. Senate"
+    },
+    {
+      "@id": " http://id.worldcat.org/fast/843535",
+      "http://schema.org/name": "Cabinet officers"
+    },
+    {
+      "@id":"http://id.worldcat.org/fast/1075723",
+      "http://schema.org/name": "Presidents"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1489356",
+      "http://schema.org/name": "Major League Baseball (Organization). Office of the Commissioner"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/530422",
+      "http://schema.org/name": "United States. Congress. Senate"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1020686",
+      "http://schema.org/name": "Migrant agricultural laborers"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/991587",
+      "http://schema.org/name": "Land use, Rural"
+    },
+    {
+      "@id":"http://id.worldcat.org/fast/990260",
+      "http://schema.org/name": "Labor unions"
+    },
+    {
+      "@id":"http://id.worldcat.org/fast/1210866",
+      "http://schema.org/name": "California--Rutherford"
     }
+
+
 ]

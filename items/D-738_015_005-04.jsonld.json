@@ -17,13 +17,23 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_015_005-04.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168262"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    }
+  ],
   "schema:creator": "",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1972"
   },
-  "schema:description": "",
+  "schema:description": "Chart of ten wineries case sales, within California and outside California.",
   "schema:identifier": [
     "ark:/87293/d3697060r",
     "D-738, Box:15, Folder:5"

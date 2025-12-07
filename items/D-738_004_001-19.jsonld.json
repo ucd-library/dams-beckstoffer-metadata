@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-19.pdf"
   },
-  "schema:about": [],
-  "schema:creator": "Stone, Michael P. W.",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1489356"
+    }
+  ],
+  "schema:creator": "Stone, Michael P. W. (Michael Patrick William), 1925-1995",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1989-08-04"
   },
-  "schema:description": "",
+  "schema:description": "A letter from Peter Ueberroth following his resignation announcement in June 1988.",
   "schema:identifier": [
     "ark:/87293/d3bv7b385",
     "D-738, Box:4, Folder:1"

@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-14.pdf"
   },
-  "schema:about": [],
-  "schema:creator": "Ford, Gerald R.",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1075723"
+    }
+  ],
+  "schema:creator": "Ford, Gerald R., 1913-2006",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1987-07-06"
   },
-  "schema:description": "",
+  "schema:description": "A thank you letter from Jimmy Carter.",
   "schema:identifier": [
     "ark:/87293/d33f4kw5g",
     "D-738, Box:4, Folder:1"

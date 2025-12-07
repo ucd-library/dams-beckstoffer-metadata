@@ -17,13 +17,23 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_002_001-02.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    }
+  ],
   "schema:creator": "Arthur Young and Company",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
     "@value": "1973-05"
   },
-  "schema:description": "",
+  "schema:description": "Report prepared for Heublein regarding the new corporation to be formed by W. Andrew Beckstoffer with the proposed acquisition of the Vinifera Development Corporation",
   "schema:identifier": [
     "ark:/87293/d3v11vt8w",
     "D-738, Box:2, Folder:1"

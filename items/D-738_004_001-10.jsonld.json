@@ -17,13 +17,23 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-10.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/533495"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
+    }
+  ],
   "schema:creator": "Quinn, John R.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1992-11-24"
   },
-  "schema:description": "",
+  "schema:description": "A letter of congratulations from State Senator Mike Thompson for the Integrated Pest Management Innovator Award.",
   "schema:identifier": [
     "ark:/87293/d3vx06b5w",
     "D-738, Box:4, Folder:1"

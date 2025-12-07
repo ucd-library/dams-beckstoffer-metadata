@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-03.pdf"
   },
-  "schema:about": [],
-  "schema:creator": "",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    }
+  ],
+  "schema:creator": "Beckstoffer, W. Andrew",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
     "@value": "1992-10"
   },
-  "schema:description": "Three invitations to dinner parties in Italy celebrating the Italian University in Florence and the World Presidents' Organzation.",
+  "schema:description": "Three invitations to dinner parties in Italy celebrating the Italian University in Florence and the World Presidents' Organization.",
   "schema:identifier": [
     "ark:/87293/d3833n64k",
     "D-738, Box:4, Folder:1"

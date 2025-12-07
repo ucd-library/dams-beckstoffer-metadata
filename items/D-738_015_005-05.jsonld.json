@@ -17,13 +17,23 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_015_005-05.pdf"
   },
-  "schema:about": [],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168262"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    }
+  ],
   "schema:creator": "Napa County Assessor's Office",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
     "@value": "1975-3"
   },
-  "schema:description": "",
+  "schema:description": "Information on grapes by variety, using data from 1967 to 1974.",
   "schema:identifier": [
     "ark:/87293/d3pc2th77",
     "D-738, Box:15, Folder:5"

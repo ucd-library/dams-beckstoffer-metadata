@@ -17,13 +17,20 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_001-15.pdf"
   },
-  "schema:about": [],
-  "schema:creator": "Carter, Jimmy",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1075723"
+    }
+  ],
+  "schema:creator": "Carter, Jimmy, 1924-2024",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1987-06-12"
   },
-  "schema:description": "",
+  "schema:description": "A letter from Jimmy Carter regarding participation at a YPO event in Hawaii.",
   "schema:identifier": [
     "ark:/87293/d3zp3w79d",
     "D-738, Box:4, Folder:1"
