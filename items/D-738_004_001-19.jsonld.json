@@ -18,11 +18,11 @@
     "@id": "@base:/media/D-738_004_001-19.pdf"
   },
   "schema:about": [
-    {
+{
       "@id": "http://id.worldcat.org/fast/1175961"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1489356"
+      "@id": "http://id.worldcat.org/fast/843535"
     }
   ],
   "schema:creator": "Stone, Michael P. W. (Michael Patrick William), 1925-1995",

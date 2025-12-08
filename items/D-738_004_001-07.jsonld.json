@@ -19,10 +19,13 @@
   },
   "schema:about": [
     {
-      "@id": "http://id.worldcat.org/fast/1175961"
+      "@id": "http://id.worldcat.org/fast/1178394"
     },
     {
-      "@id": "http://id.worldcat.org/fast/833378"
+      "@id": "http://id.worldcat.org/fast/1204623"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
     }
   ],
   "schema:creator": "Thatcher, Margaret",

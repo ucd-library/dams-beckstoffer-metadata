@@ -18,11 +18,14 @@
     "@id": "@base:/media/D-738_004_001-12.pdf"
   },
   "schema:about": [
-    {
+     {
       "@id": "http://id.worldcat.org/fast/1175961"
     },
     {
-      "@id": "http://id.worldcat.org/fast/843535"
+      "@id": "http://id.worldcat.org/fast/533495"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
     }
   ],
   "schema:creator": "Thompson, Mike",
