@@ -30,7 +30,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1997-11-12"
   },
-  "schema:description": "A letter from Donald Rumsfeld upon his appointment to Secretary of Defense.",
+  "schema:description": "A letter regarding testimony for the Senate Select Committee on California's Wine Industry.",
   "schema:identifier": [
     "ark:/87293/d3hm52t2r",
     "D-738, Box:4, Folder:1"

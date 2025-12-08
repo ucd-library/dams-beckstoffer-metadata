@@ -30,7 +30,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1987-07-06"
   },
-  "schema:description": "A thank you letter from Jimmy Carter.",
+  "schema:description": "A letter from Gerald Ford regarding participation at a YPO event in Hawaii.",
   "schema:identifier": [
     "ark:/87293/d33f4kw5g",
     "D-738, Box:4, Folder:1"
