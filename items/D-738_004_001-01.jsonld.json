@@ -28,12 +28,12 @@
       "@id": "http://id.worldcat.org/fast/1175961"
     }
   ],
-  "schema:creator": "Tchelistcheff, Andr, 1901-1994",
+    "schema:creator": "Tchelistcheff, André, 1901-1994",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1970-12-08"
   },
-  "schema:description": "Letter from L. F. Knowles Jr. to C. W. Carriuolo about Andre Tchelistcheff",
+  "schema:description": "Letter from L. F. Knowles Jr. to C. W. Carriuolo about André Tchelistcheff",
   "schema:identifier": [
     "ark:/87293/d3599z91m",
     "D-738, Box:4, Folder:1"

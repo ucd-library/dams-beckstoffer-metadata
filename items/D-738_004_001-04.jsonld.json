@@ -28,12 +28,12 @@
       "@id": "http://id.worldcat.org/fast/1175961"
     }
   ],
-  "schema:creator": "Tchelistcheff, Andr, 1901-1994",
+  "schema:creator": "Tchelistcheff, André, 1901-1994",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1970-05-24"
   },
-  "schema:description": "Letter from Andre Tchelistcheff to Andy Beckstoffer.",
+  "schema:description": "Letter from André Tchelistcheff to Andy Beckstoffer.",
   "schema:identifier": [
     "ark:/87293/d3930p34t",
     "D-738, Box:4, Folder:1"
