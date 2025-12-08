@@ -10,8 +10,8 @@
     ]
   },
     {
-        "@id": "http://id.worldcat.org/fast/1175907",
-        "http://schema.org/name": "Wine and wine making"
+      "@id": "http://id.worldcat.org/fast/1175907",
+      "http://schema.org/name": "Wine and wine making"
     },
     {
    		"@id": "http://id.worldcat.org/fast/1273793",
@@ -23,7 +23,7 @@
     },
     {
     	"@id": "http://id.worldcat.org/fast/1175961",
-    	"http://schema.org/name":  "Wine industry"
+    	"http://schema.org/name": "Wine industry"
     },
     {
     	"@id": "http://id.worldcat.org/fast/1204565",
@@ -82,7 +82,7 @@
       "http://schema.org/name": "California. Legislature. Senate"
     },
     {
-      "@id": " http://id.worldcat.org/fast/843535",
+      "@id": "http://id.worldcat.org/fast/843535",
       "http://schema.org/name": "Cabinet officers"
     },
     {
