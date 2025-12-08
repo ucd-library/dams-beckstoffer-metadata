@@ -36,9 +36,6 @@
     "ark:/87293/d32f7k045",
     "D-738"
   ],
-  "schema:image": {
-    "@id": "@base:/Beckstoffer_digital_collection_image.jpeg"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
