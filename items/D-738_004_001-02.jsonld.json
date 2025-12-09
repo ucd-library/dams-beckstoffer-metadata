@@ -22,13 +22,10 @@
       "@id": "http://id.worldcat.org/fast/1175907"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1175997"
-    },
-    {
-      "@id": "http://id.worldcat.org/fast/1210866"
-    },
-    {
       "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
     }
   ],
   "schema:creator": "Knowles, L. F. Jr.",
@@ -36,7 +33,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1972-12-21"
   },
-  "schema:description": "Letter from André Tchelistcheff to Andy Beckstoffer regarding replanting of vineyard at Vinifera Development Ranc in Rutherford.",
+  "schema:description": "Letter from L. F. Knowles Jr. to C. W. Carriuolo about Andre Tchelistcheff.",
   "schema:identifier": [
     "ark:/87293/d31j97g8q",
     "D-738, Box:4, Folder:1"
