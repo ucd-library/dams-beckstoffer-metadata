@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "033",
+  "schema:position": 33,
   "ebucore:filename": "D-738_002_001-03_0017_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 33 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “Local farming activity is the most —— nl efficient method, although there are economies of scale in corporate farming operations. a, (”"
 }

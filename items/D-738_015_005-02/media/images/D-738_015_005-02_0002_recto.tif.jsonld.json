@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_015_005-02_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 2 from “California Premium Wine: 10 Year Summary by Type,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “CALIFORNIA PREMIUM WINE 10-YEAR SUMMARY TOTAL OF DRYS, SWEETS & SPARKLING . CHRISTIAN ae TOTAL % INCREASE ALMADEN SHARE MASSON SHARE BROTHERS SHARE ALL OTHERS. SHARE 1958 1745”"
 }

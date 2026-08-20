@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "033",
+  "schema:position": 33,
   "ebucore:filename": "D-738_004_019-01_0018_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 33 of “Beckstoffer Vineyards at A Glance.” Visible text begins: “David Beckstoffer Biography Beckstoffer’s modern business background has streamlined company procedures. “We’re standardizing operations across all three counties. When we learn something new in one place, we make”"
 }

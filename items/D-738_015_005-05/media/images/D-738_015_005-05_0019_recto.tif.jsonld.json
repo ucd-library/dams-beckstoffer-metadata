@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "037",
+  "schema:position": 37,
   "ebucore:filename": "D-738_015_005-05_0019_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 19 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “WHITES 1974 Tons Produced Chenin Blanc 4470.38 Sauvignon Blanc 1303.50 Pinot Chardonnay ANTS 557 Gewurztraminer 364.81 huscats 378.70 Gray Riesling 1299.52 Johann. Riesling 1949.16 Semillon 723.29 Sylvaner 1098.60”"
 }

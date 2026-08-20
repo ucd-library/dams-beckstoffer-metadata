@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_034_002-04_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “United Vintners, Inc. purchase agreement with United Farm Workers organizing committee.” Visible text begins: “this Agreement this - - day of August 1971. UNITED VINTNERS, INC. By UNITED FARM WORKERS ORGANIZING COMMITPEE, AFL-CIO WITNESSED: Catholic Bishops' Council AFL-CIO”"
 }

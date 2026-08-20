@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-11_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from California State Senator..” Visible text begins: “TOM LAFAILLE MEMBERS: — California State Senate spurorvewe nao STATE CAPITOL SENATOR ALFRED E. ALQUIST SACRAMENTO, CA 95814 SENATOR ROBERT G. BEVERLY (916) 445-3375 SELECT COMMITTEE ON SENATOR”"
 }

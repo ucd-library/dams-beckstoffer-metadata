@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_015_005-04_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 1 from “Estimated Case Sales Volume of Ten Selected Wineries 1963-1972,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “ESTIMATED CASE SALES VOLUME OF TEN SELECTED WINERIES 1963-1972 COl NEID ae (California Tax-paid Withdrawals and Federal Tax-paid Shipments Outside California) 2 Lo ee California Sales Sales Outside”"
 }

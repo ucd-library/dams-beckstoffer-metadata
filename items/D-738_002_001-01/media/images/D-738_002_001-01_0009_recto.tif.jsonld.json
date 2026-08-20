@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "017",
+  "schema:position": 17,
   "ebucore:filename": "D-738_002_001-01_0009_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 17 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “6/72 VINIFERA DEVELOPMENT CORPORATION OVERHEAD ANALYSIS SAN FRANCISCO Salaries $63,000 Fringes 19,000 Travel 14,000 Rentals 9,000 Supplies 16,000 Consultants 26,000 $147,000 NAPA Salaries 67,500 Fringes 21,000 Travel 4,000”"
 }

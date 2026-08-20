@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_004_001-02_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “Correspondence: André Tchelistcheff Consulting Contract.” Visible text begins: “Mr. Cy We. Carriuolo _ December 21, 1972 Andre states that when Heublein originally took over Beaulieu, he was very attracted and excited by their intention to expand”"
 }

@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "015",
+  "schema:position": 15,
   "ebucore:filename": "D-738_002_001-03_0008_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 15 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “WINE GRAPE ACREAGE PLANTED - CALIFORNIA 1959 1960 AND TO VARIETY EARLIER 1964 1965 1966 1967 1968 1969 1970 1971 1972 Cbnet. Sauvignon 630 1,054 408 720 383”"
 }

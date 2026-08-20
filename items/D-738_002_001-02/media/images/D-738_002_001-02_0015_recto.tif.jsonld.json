@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "029",
+  "schema:position": 29,
   "ebucore:filename": "D-738_002_001-02_0015_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 29 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “Deferred federal income tax results primarily from the utilization of cash basis accounting for tax purposes and accrual basis accounting for financial reporting purposes. Capital in excess of”"
 }

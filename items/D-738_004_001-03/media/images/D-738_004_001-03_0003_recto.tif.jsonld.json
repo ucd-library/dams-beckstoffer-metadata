@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "005",
+  "schema:position": 5,
   "ebucore:filename": "D-738_004_001-03_0003_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Formal dinner invitation to Mr. and Mrs. Andrew Beckstoffer from Marchese and Marchesa Ferdinando Frescobaldi for October 13, 1992, honoring the World Presidents' Organization."
 }

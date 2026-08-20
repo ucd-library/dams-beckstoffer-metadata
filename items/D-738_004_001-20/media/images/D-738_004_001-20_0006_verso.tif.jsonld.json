@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "004",
+  "schema:position": 4,
   "ebucore:filename": "D-738_004_001-20_0006_verso.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Blank reverse side of leaf 6 from “Correspondence: Problems of the direct planting of Cabernet European Rooted Cuttings Versus Establishing of Cabernet Vineyard on Certified American Root Stocks,” with faint paper texture, bleed-through, or scan marks visible."
 }

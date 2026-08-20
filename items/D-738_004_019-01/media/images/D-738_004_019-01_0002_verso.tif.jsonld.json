@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "002",
+  "schema:position": 2,
   "ebucore:filename": "D-738_004_019-01_0002_verso.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Blank reverse side of leaf 2 from “Beckstoffer Vineyards at A Glance,” with faint paper texture, bleed-through, or scan marks visible."
 }

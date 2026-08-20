@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "015",
+  "schema:position": 15,
   "ebucore:filename": "D-738_015_005-05_0008_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 8 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “WHITES 1966 Tons Produced vs Bearing ions, . Acres Aexe Chenin Blanc 1994.18 616 Seo Sauvignon Blanc 735.532 272 2.70 Pinot Chardonnoy 532.00 gt is 246 2.16 Gewurztraminer”"
 }

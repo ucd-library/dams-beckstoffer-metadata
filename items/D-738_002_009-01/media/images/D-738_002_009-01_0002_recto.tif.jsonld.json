@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_002_009-01_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “Standard Vinifera Contract Memo.” Visible text begins: “Mr. Alan R. Gruber November 20, 1970 Page Two 5. At the seller's. dotion he could select either -the Beaulieu or Allied market price equation with their respective”"
 }

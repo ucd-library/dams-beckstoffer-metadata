@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "025",
+  "schema:position": 25,
   "ebucore:filename": "D-738_002_001-02_0013_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 25 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “L / Ay ay, ( Prepayment of Heublein loans Exhibit 6 considers the impact of using the cash flow under the $200/ton or 40% yield assumption to prepay”"
 }

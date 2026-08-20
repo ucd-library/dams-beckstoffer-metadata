@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "027",
+  "schema:position": 27,
   "ebucore:filename": "D-738_015_005-01_0014_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 14 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Firm & Premise Name Premise Number Premise Location Stat. County District acre Valley Winery Prestige Vineyards . Pronto Market 1 Trader Joe's Winery Rege Wine Company, A. Richert”"
 }

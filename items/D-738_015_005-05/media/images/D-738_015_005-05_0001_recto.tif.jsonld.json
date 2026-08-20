@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_015_005-05_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 1 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Pg Pg Pg Pg Pg Pg bg tn 7 10 EL 2 15 16 17 18 19 20 21 22 23 24 25 Beari Beari Average Avera Tons”"
 }

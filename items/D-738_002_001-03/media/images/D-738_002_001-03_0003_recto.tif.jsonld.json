@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "005",
+  "schema:position": 5,
   "ebucore:filename": "D-738_002_001-03_0003_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 5 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “o f ae : Sue & . : y j we 7 al 6 tem Fe eng mat Ty els 19 fot sic peal od Maw Ta ge”"
 }

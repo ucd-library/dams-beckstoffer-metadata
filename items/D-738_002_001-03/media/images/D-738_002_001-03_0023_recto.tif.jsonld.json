@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "045",
+  "schema:position": 45,
   "ebucore:filename": "D-738_002_001-03_0023_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 45 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “2/73 1975 B INGLENOOK a LESS LESS OVER % GROWERS A.G.G. TOTAL V.0.C. (SHORT) OVER Cbrnet. Sauvignon 14230 706 1,936 2,619 683 35% Pinot Noir 242 416 658”"
 }

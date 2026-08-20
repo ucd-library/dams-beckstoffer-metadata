@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "009",
+  "schema:position": 9,
   "ebucore:filename": "D-738_015_005-02_0005_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 5 from “California Premium Wine: 10 Year Summary by Type,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “1958 1963 1964 1965 1966 1968 —— TOTAL 174.2 487.5: 974 8 686 4 (Py E) 802.3 799 ob % INCREASE 179 9% 17 9% 19.4% 10h 5”"
 }

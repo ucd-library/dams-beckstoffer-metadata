@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_002_001-01_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “FUTURE OF VINIFERA Ane HIEU BLES 1M FAR/A/M G WHAT CONTINUING POSITION SHOULD HEUWBLEMWS TAKE KE GAR DOIG 17S INVOLVEMENT 1K AAGRICULTURAL LAND HOLOING AND FHA OPERATION IN”"
 }

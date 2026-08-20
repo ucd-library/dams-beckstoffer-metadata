@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "023",
+  "schema:position": 23,
   "ebucore:filename": "D-738_002_001-02_0012_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 23 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “III - SENSITIVITY ANALYSIS The forecasts in Part II of this report were prepared under certain assumptions, the most sensitive ones being price per ton and vineyard yield”"
 }

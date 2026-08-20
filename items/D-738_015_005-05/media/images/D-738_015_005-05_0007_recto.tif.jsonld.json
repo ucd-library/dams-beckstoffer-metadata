@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "013",
+  "schema:position": 13,
   "ebucore:filename": "D-738_015_005-05_0007_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 7 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Chenin Blanc Sauvignon Vert Pinot Chardonnay Gewurztrominer Muscats Gray Riesling Johann. Riesling Semillon ' Sylvaner ch Colombard een Hungarian Golden Chasselas Sauvignon Vert Wild L9G Tons Produced 2396.59”"
 }

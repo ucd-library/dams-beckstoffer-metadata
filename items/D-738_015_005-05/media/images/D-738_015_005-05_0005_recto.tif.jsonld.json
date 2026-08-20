@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "009",
+  "schema:position": 9,
   "ebucore:filename": "D-738_015_005-05_0005_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 5 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “WHITES Average Price Paid 19689 1970 Chenin Bianc 200 ) 251 Sauvignon Blanc Pinot Chardonnay Gewurztraminer Huscats Gray Riesling Johann Riesling Semillon Sylvaner STANDARD WHITES Burger French Colombard”"
 }

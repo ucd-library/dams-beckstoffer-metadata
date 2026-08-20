@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "035",
+  "schema:position": 33,
   "ebucore:filename": "D-738_002_001-02_0018_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 33 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “VINIFERA DEVELOPMENT CORPORATION PAYMENTS OF PRINCIPAL AND INTEREST ON LONG-TERM DEBT For the years 1974 - 1993 (000 is omitted) 5 Years 5 Years 1974 1975 1976 1977”"
 }

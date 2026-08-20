@@ -25,13 +25,13 @@
       "@id": "http://id.worldcat.org/fast/1210866"
     },
     {
-       "@id": "http://id.worldcat.org/fast/1175997"
+      "@id": "http://id.worldcat.org/fast/1175997"
     },
     {
       "@id": "http://id.worldcat.org/fast/1175961"
     }
   ],
-    "schema:creator": "Tchelistcheff, André, 1901-1994",
+  "schema:creator": "Tchelistcheff, André, 1901-1994",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
     "@value": "1970-12-08"

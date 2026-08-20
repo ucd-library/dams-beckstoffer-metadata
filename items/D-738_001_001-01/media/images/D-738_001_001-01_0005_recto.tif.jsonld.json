@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "009",
+  "schema:position": 9,
   "ebucore:filename": "D-738_001_001-01_0005_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 9 of “Beaulieu Vineyard Grape Sale Agreement with Mr. and Mrs. John Kobil.” Visible text begins: “18. Time shail be of the essence in connection with this cract and each and every provision thereof. Any notice or demand h either party may deem necessary”"
 }

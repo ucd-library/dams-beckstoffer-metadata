@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "011",
+  "schema:position": 11,
   "ebucore:filename": "D-738_015_005-02_0006_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 6 from “California Premium Wine: 10 Year Summary by Type,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “4 AIMADEN - 1968 MASSON 1968 Drys Sweets Sparkling : Drys Sweets Sparkling CHRISTIAN BROS. - 1968 Drys Sweets Sparkling TOTAL ALMADEN/MASSON/CHRISTIAN BROS. 1968 % OF TOTAL 73.2%”"
 }

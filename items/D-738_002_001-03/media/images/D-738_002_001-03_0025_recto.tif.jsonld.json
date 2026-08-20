@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "049",
+  "schema:position": 49,
   "ebucore:filename": "D-738_002_001-03_0025_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 49 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “L/Z S69 1 OrlL vet 64S v8v ves L9S SPL2 P4silUulA 40 pau Lnbay yeN 9L1 Sut v9 9 4 cel OOL GS SUSMOUQD Us 698 eSel S6L”"
 }

@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "013",
+  "schema:position": 13,
   "ebucore:filename": "D-738_002_001-03_0007_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 13 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “WELLS FARGO REPORT .But, What If: 20% of 1980 table wine was produced from non- grape products, and The newly planted (after 1969) vineyards were more efficient than”"
 }

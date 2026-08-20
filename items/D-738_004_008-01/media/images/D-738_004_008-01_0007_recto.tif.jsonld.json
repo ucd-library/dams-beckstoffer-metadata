@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "013",
+  "schema:position": 13,
   "ebucore:filename": "D-738_004_008-01_0007_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 13 of “America's Great Outdoors Listening Sessions: Comments of W. Andrew Beckstoffer.” Visible text begins: “Sacramento where State government housing needs are expanding; and in Davis where a boutique community is developing. Conservation Easements are a major incentive for conserving agricultural lands, protecting”"
 }

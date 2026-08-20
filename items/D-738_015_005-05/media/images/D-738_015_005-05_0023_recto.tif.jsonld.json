@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "045",
+  "schema:position": 45,
   "ebucore:filename": "D-738_015_005-05_0023_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 23 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “1970 Average Gross/ir: WALTES (severe ene Average Tons/Acre x Average Price/Ton Averog: Gross/Acre VARIETY Tons/Acre : ice/i Gross/Accre Chenin Blanc 5 x ob. OO 695.2 Sauvignon Blanc Ae”"
 }

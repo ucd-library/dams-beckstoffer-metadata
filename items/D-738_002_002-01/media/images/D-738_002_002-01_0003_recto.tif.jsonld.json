@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "005",
+  "schema:position": 5,
   "ebucore:filename": "D-738_002_002-01_0003_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 5 of “Correspondence: Letter to Beckstoffer from Murray.” Visible text begins: “Mr. Andrew Beckstoffer Page 3 November 15, 1971 D. Some sample questions: 1. Why present job? 2. Type of assignment or activity which gives you difficuities. 3. Frustrations”"
 }

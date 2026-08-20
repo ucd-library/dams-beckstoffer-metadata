@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_034_002-04_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “United Vintners, Inc. purchase agreement with United Farm Workers organizing committee.” Visible text begins: “AGREEWEW THIS AGREEMENT, made and entered into this Jd a day of August, 1971, by and between United Vintners, Ine... (United Vintners), and United Farm Workers Organizing Committee,”"
 }

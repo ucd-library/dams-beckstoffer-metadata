@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "019",
+  "schema:position": 19,
   "ebucore:filename": "D-738_015_005-05_0010_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 10 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Chenin Blanc Sauvignon Blanc Pinot Chardonnay Gewurztroaiminer Muscats Gray Riesling Johann. Riesling Semillon ' Sylvaner Burger French Colombard Green Huncarian Golden Chesselas Sauvignon Vert WHITES 1970 Tons Produced”"
 }

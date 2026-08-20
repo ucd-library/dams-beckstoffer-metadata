@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "045",
+  "schema:position": 45,
   "ebucore:filename": "D-738_015_005-01_0023_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 23 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “2 Page 3 Wine Producers and Blenders Basic Permit Premise WE. Premise Stat. Effective Firm and Premise Name Number Member Location District Datel/ Sources TERMINATED Balages Winery .”"
 }

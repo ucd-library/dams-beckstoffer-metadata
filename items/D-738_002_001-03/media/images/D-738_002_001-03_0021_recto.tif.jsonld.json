@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "041",
+  "schema:position": 41,
   "ebucore:filename": "D-738_002_001-03_0021_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 41 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “EPnS 1973 By V. INGLENOOK LESS LESS OVER v4 GROWERS A.G.G. TOTAL Vat (SHORT) OVER Cbrnet. Sauvignon 515 409 924 1,301 377 41% Pinot Noir 199 288 487”"
 }

@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-09_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Archbishop of San Francisco.” Visible text begins: “& wa 445 Uhurch Street c April 4, 1991 Mr. Andrew Beckstoffer 1127 Pope Street St. Helena, CA 94574 Dear Mr. Beckstoffer, I very much enjoyed meeting you”"
 }

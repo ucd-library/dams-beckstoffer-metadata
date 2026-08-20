@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "023",
+  "schema:position": 23,
   "ebucore:filename": "D-738_015_005-01_0012_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 12 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 12 1/ aka Veedercrest Vineyards (BATF-SF) 2/ aka Mt. Veeder Vineyards (WI-TT) Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes .”"
 }

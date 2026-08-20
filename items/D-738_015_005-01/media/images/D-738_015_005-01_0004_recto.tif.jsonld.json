@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "007",
+  "schema:position": 7,
   "ebucore:filename": "D-738_015_005-01_0004_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 4 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 4 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes Casa De Fruta 4529 Yes Hollister San Benito 7 Caymus Vineyards 4598”"
 }

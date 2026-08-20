@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-02_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: André Tchelistcheff Consulting Contract.” Visible text begins: “ESTATE BOTTLED NAPA VALLEY WINES ESTABLISHED 1900 GEORGES DE LATOUR, FOUNDER - LEGH fF. KNOWLES, JR., GENERAL MANAGER 57 POST STREET. SAN FRANCISCO, CALIFORNIA 94104 (418) $92-0187 December”"
 }

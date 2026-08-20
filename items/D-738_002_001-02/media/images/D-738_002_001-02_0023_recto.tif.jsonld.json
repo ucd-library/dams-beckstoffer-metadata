@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "045",
+  "schema:position": 43,
   "ebucore:filename": "D-738_002_001-02_0023_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 43 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “VINIFERA DEVELOPMENT CORPORATION STATISTICS 3. Yield estimates Vineyard yields at full maturity are summarized in the following table: Herrick Abruzzini Carneros Ukiah Tons Tons Tons Tons Per Per”"
 }

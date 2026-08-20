@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "047",
+  "schema:position": 45,
   "ebucore:filename": "D-738_002_001-02_0024_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 45 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “/ 1974 VINIFERA DEVELOPMENT CORPORATION SENSITIVITY ANALYSIS EFFECT OF PRICE AND YIELD CHANGES ON NAPA PREMIUM GRAPES (1) For the years 1974 - 1993 (000 is omitted) 1975”"
 }

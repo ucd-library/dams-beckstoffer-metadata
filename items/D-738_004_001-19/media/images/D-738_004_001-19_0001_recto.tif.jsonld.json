@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-19_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Under Secretary of the Army..” Visible text begins: “THE UNDER SECRETARY OF THE ARMY WASHINGTON, D.C. 20310-0102 August 4, 1989 Mr. W. Andrew Beckstoffer President Beckstoffer Vineyards Post Office Drawer 990 WAY St. Helena, California 94574”"
 }

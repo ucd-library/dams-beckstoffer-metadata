@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-04_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Keig Program Progressive Report.” Visible text begins: “Beaulieu Vineyard ESTABLISHED 1900 D. DE PINS SULLIVAN, SECRETARY (707) 963-3214 ESTATE BOTTLED NAPA VALLEY WINES GEORGES DE LATOUR,. FOUNDER H. DE LATOUR DE PINS, PRESIDENT e VINEYARDS”"
 }

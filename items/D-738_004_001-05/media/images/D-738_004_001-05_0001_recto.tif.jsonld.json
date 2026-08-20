@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-05_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Keig Property Vineyard Recommendations and Meeting Minutes.” Visible text begins: “DISTRIBUTION Carriuolo Caspar Doty Gruber Knowles McInturf Solari . Watson ABDAHrAAA voor eus Andre Tchelistcheff Edward E. Hunter Dr. H. P. Olmo”"
 }

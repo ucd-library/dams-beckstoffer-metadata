@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_002_011-01_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “Development of an Economic Formula for Pricing Premium Varietal Grapes of the Napa Valley: Executive Summary.” Visible text begins: “EXECUTIVE SUMMARY Stanford Research Institute was contracted by Vinifera Development Corporation in November 1970 to conduct research for the specific purpose of developing an economically sound formula for”"
 }

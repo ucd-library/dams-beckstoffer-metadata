@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "029",
+  "schema:position": 29,
   "ebucore:filename": "D-738_002_001-03_0015_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 29 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “2/713 CONNECTICUT MUTUAL 1973 - Programmed Purchase and Development Cost - $7,800,000 1971 - Anticipated Purchase and Development Cost- $6,600,000 Up 18% PROSPECTUS ACTUAL /BUDGET 1971 Revenue $384,000”"
 }

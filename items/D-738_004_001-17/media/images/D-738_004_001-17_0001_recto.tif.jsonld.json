@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-17_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Secretary of the Army..” Visible text begins: “SECRETARY OF THE ARMY WASHINGTON April 5, 1991 Dear Andy: An unexpected and most gracious note. Thank you so much. We still have personal property in the Napa”"
 }

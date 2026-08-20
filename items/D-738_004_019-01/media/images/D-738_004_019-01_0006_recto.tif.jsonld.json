@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "009",
+  "schema:position": 9,
   "ebucore:filename": "D-738_004_019-01_0006_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 9 of “Beckstoffer Vineyards at A Glance.” Visible text begins: “History of Beckstoffer Vineyards is now Kendall Jackson Winery’s top farmer. John Brown, hired in 1978 as Beckstoffer’s chief financial officer, was a former St. Helena mayor. Beckstoffer”"
 }

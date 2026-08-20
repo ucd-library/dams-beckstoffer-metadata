@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "021",
+  "schema:position": 21,
   "ebucore:filename": "D-738_002_001-02_0011_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 21 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “NET INCOME AND CASH FLOW (EXHIBIT 3) First ten years Operating income fluctuates until 1980 when it reaches its maximum level. From 1976-1979 the developing vineyards are in”"
 }

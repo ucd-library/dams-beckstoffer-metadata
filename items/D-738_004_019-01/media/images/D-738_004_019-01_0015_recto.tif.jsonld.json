@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "027",
+  "schema:position": 27,
   "ebucore:filename": "D-738_004_019-01_0015_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 27 of “Beckstoffer Vineyards at A Glance.” Visible text begins: “W. Andrew Beckstoffer Biography premium grape production. They would have to gain control of the land, remove the old varieties and replant. With this in mind, he enlisted”"
 }

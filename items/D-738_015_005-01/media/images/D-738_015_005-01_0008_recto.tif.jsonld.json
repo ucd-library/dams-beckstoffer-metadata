@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "015",
+  "schema:position": 15,
   "ebucore:filename": "D-738_015_005-01_0008_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 8 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 8 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes “ Roma Winery 3612 Yes Presno Fresno 3 Bear Creek Winery 3865”"
 }

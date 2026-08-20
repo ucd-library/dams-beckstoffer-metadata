@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "033",
+  "schema:position": 33,
   "ebucore:filename": "D-738_015_005-01_0017_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 17 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 17 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes Swan Vineyards, Joseph 4528 Yes Forestville Sonoma 6 Thomas Vineyards 3603 Yes”"
 }

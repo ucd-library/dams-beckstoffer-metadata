@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "037",
+  "schema:position": 37,
   "ebucore:filename": "D-738_015_005-01_0019_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 19 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 19 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes o Weibel Champagne Vineyards 4593 Redwood Valley Mendocino 6 Wente Bros. 893”"
 }

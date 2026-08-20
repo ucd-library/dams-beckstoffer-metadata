@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "037",
+  "schema:position": 37,
   "ebucore:filename": "D-738_002_001-03_0019_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 37 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “1972 PREHARVEST COST COMPARISONS CO ESTABLISHED VINEYARDS Vine Control Vineyard Repair and Replanting Cultivation/Fertilization Irrigation/Frost Protection Weed Control/Suckering Pest Controi Miscellaneous Supplies Repairs and Maintenance Depreciation - Equipment”"
 }

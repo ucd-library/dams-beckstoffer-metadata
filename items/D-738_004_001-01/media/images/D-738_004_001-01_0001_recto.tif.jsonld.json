@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-01_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: December 6, 1970 Consultation Meeting.” Visible text begins: “ESTATE BOTTLED NAPA VALLEY WINES - GEORGES DE LATOUR, FOUNDER VINEYARDS AND WINERY EXECUTIVE O H. DE LATOUR DE PINS, PRESIDENT RUTHERFORD. NAPA COUNTY, CALIFORNIA 94573 Cc :”"
 }

@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "047",
+  "schema:position": 47,
   "ebucore:filename": "D-738_015_005-01_0024_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 24 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Wine Producers and Blenders Basic Permit Page 4 Premise W.I. W.I. Stat, Firm and Premise Name Number Member Change Member District OTHER CHANGES Beringer/Los Hermanos Vineyard Yes Name”"
 }

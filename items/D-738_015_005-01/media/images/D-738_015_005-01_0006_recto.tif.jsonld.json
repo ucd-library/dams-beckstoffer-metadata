@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "011",
+  "schema:position": 11,
   "ebucore:filename": "D-738_015_005-01_0006_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 6 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “page 6 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location Country District Notes “ Evergreen Vineyards 3568 Yes San Jose Santa Clara 7. bs Farnesi”"
 }

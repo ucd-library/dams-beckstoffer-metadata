@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "007",
+  "schema:position": 7,
   "ebucore:filename": "D-738_004_001-05_0004_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 7 of “Correspondence: Keig Property Vineyard Recommendations and Meeting Minutes.” Visible text begins: “Keig Property Meeting of December 6, 1970 Page Three 5. TRELLISING Dr. Olmo suggested that a Vee trellis was proving most satisfactory. It was decided, however, that this”"
 }

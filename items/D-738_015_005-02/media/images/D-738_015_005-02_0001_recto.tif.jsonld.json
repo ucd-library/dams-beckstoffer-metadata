@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_015_005-02_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 1 from “California Premium Wine: 10 Year Summary by Type,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “CALIFORNIA PREMIUM WINE 10-YEAR SUMMARY BY TYPE Cases in thousands DRYS , SPARKLING 785 ol 174.2 1678.1 BTS 3661.5 799 ol Growth 366% ee 470% The Leven Major”"
 }

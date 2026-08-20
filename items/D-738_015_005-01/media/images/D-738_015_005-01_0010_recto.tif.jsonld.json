@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "019",
+  "schema:position": 19,
   "ebucore:filename": "D-738_015_005-01_0010_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 10 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 10 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes Lodi Vintners Ltd. 1/ 3564 Yes Lodi San Joaquin 5 C 8-16-73”"
 }

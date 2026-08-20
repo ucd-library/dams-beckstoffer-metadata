@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "007",
+  "schema:position": 7,
   "ebucore:filename": "D-738_002_011-01_0004_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 7 of “Development of an Economic Formula for Pricing Premium Varietal Grapes of the Napa Valley: Executive Summary.” Visible text begins: “The combined effect of these factors places premium wine grapes in a unique position and makes them quite irresponsive to classical economic theory. The market for these grapes”"
 }

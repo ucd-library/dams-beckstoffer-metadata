@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "031",
+  "schema:position": 31,
   "ebucore:filename": "D-738_002_001-03_0016_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 31 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “BEAULIEU VINEYARDS NOS. aN ge AND 5 4 1972 FARMING RESULTS Revenues $451,328 Costs Ving: COREYO hoe os ass Soe hae eee $42,022 Vineyard Repair and RENT OR”"
 }

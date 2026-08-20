@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "009",
+  "schema:position": 9,
   "ebucore:filename": "D-738_015_005-01_0005_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 5 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 5 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes Beringer Wines 1/ 4263 Yes Napa Napa 6 Beringer Wines 2/ 4570”"
 }

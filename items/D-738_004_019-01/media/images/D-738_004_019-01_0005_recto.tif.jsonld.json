@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "007",
+  "schema:position": 7,
   "ebucore:filename": "D-738_004_019-01_0005_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 7 of “Beckstoffer Vineyards at A Glance.” Visible text begins: “BECKSTOFFER VINEYARDS Post OFFICE Box 405 RUTHERFORD, CALIFORNIA 94573 PHONE 707 963-9471 Fax 707 963-8849 HISTORY OF BECKSTOFFER VINEYARDS “To be the highest quality grapegrower of Northern California”"
 }

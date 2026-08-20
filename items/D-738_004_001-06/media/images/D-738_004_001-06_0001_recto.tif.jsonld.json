@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-06_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Land Trust Alliance.” Visible text begins: “ai, ts Land Trust Alliance Conservation Leadership for America’s Future October 17, 2006 Mr. W. Andrew Beckstoffer Beckstoffer Vineyards P.O. Box 405 Rutherford, CA 94573 Dear Andy, It”"
 }

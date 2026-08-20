@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "019",
+  "schema:position": 19,
   "ebucore:filename": "D-738_002_001-01_0010_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 19 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “ie VINIFERA DEVELOPMENT CORPORATION SUMMARY PERFORMANCE TO DATE Initial purposes under control - Long-term Napa Valley grape control Independent ongoing business Independent investor awareness UrFWOC Contract -. F.S.A.”"
 }

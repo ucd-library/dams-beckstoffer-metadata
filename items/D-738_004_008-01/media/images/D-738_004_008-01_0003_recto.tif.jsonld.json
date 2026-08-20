@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "005",
+  "schema:position": 5,
   "ebucore:filename": "D-738_004_008-01_0003_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 5 of “America's Great Outdoors Listening Sessions: Comments of W. Andrew Beckstoffer.” Visible text begins: “owner gives up the right to build that one home or one winery forever: Indefinitely! The incentive is the federal tax structure. Like us, many family farmers would”"
 }

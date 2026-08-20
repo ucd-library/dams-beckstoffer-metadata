@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_002_009-01_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Standard Vinifera Contract Memo.” Visible text begins: “Mr. Alan R. Gruber : DATE: November 20, 1970 W. Andrew Beckxstoffer The Standard Vinifera Contract F. knowles a . MeInturt DOLE As you know, we have been”"
 }

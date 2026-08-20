@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "037",
+  "schema:position": 35,
   "ebucore:filename": "D-738_002_001-02_0019_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 35 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “VINIFERA DEVELOPMENT CORPORATION ” —_ OPERATIONS FORECAST ’ A For the years 1974 - 1993 F (000 is omitted “La eh a a ended i 1074 f, 1975”"
 }

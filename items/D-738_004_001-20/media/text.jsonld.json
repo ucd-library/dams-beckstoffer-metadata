@@ -10,9 +10,20 @@
   },
   "@id": "",
   "@type": [
-    "schema:CreativeWork"
+    "ucdlib:TextFiles",
+    "ldp:DirectContainer",
+    "schema:MediaObject"
   ],
-  "ucdlib:textIndexable": true,
-  "ebucore:filename": "D-738_004_001-20.txt",
-  "ebucore:hasMimeType": "text/plain"
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../.."
+  },
+  "ldp:hasMemberRelation": {
+    "@id": "schema:hasPart"
+  },
+  "ldp:isMemberOfRelation": {
+    "@id": "schema:partOf"
+  },
+  "ldp:membershipResource": {
+    "@id": ""
+  }
 }

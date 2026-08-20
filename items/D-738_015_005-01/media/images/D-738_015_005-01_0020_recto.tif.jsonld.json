@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "039",
+  "schema:position": 39,
   "ebucore:filename": "D-738_015_005-01_0020_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 20 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 20 Count of Firms and Premises by Membership Status and by Statistical Districts-December 1973 Number of Firms 223 District l 30 District 2 10 Number of Firms”"
 }

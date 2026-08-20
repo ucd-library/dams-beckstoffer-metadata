@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "040",
+  "schema:position": 38,
   "ebucore:filename": "D-738_002_001-02_0020_verso.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Blank reverse side of leaf 20 from “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation,” with faint paper texture, bleed-through, or scan marks visible."
 }

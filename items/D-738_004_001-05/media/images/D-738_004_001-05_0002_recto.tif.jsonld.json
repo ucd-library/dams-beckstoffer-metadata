@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_004_001-05_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “Correspondence: Keig Property Vineyard Recommendations and Meeting Minutes.” Visible text begins: “VINIFERA DEVELOPMENT CORPORATION 601 FOURTH STREET SAN FRANCISCO, CALIFORNIA 94107 (415) 421-3213 OR 989-9612 W. ANDREW BECKSTOFFER PRESIDENT December 17, 1970 Tos (see distribution) From: W. Andrew Beckstoffer”"
 }

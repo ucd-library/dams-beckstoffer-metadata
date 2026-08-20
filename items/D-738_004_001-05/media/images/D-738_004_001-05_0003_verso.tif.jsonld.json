@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "006",
+  "schema:position": 6,
   "ebucore:filename": "D-738_004_001-05_0003_verso.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Blank reverse side of leaf 3 from “Correspondence: Keig Property Vineyard Recommendations and Meeting Minutes,” with faint paper texture, bleed-through, or scan marks visible."
 }

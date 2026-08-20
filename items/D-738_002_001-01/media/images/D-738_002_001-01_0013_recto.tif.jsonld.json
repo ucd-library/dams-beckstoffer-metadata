@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "025",
+  "schema:position": 25,
   "ebucore:filename": "D-738_002_001-01_0013_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 25 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “6/72 VINIFERA DEVELOPMENT CORPORATION HEUBLEIN IN FARMING POINTS OF CONCERN Ability to attract and motivate farm managers - independent expediters. Efficiency of traditional corporate compensation schedules. Piece of”"
 }

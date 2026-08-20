@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "021",
+  "schema:position": 21,
   "ebucore:filename": "D-738_015_005-05_0011_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 11 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Goncy Beaujolais Nopc Gamay Pinot Noir Cabernet Sauvignon Zinfandel Merlot Alicante Bouschet Eorly Burgundy Cariscnane Petiie Sirah BLACKS 1970 fons Produced 117.31 1566.24 1227 56 2368.44 1121.58 102.75”"
 }

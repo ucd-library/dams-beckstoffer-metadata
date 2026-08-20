@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "007",
+  "schema:position": 7,
   "ebucore:filename": "D-738_002_001-01_0004_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 7 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “VINIFERA DEVELOPMENT CORPORATION NAPA CONTRACT AMALYSI NUMBER OF Con TRACTS AE GRAPE SUPPLY 27-8 fle. se VIVEVARD A Bp 7 2690 fe. 2 V FFE OF CLE TA”"
 }

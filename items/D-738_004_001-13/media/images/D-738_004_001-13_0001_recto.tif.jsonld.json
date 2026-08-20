@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-13_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Donald Rumsfeld..” Visible text begins: “DONALD RUMSFELD SUITE 405 400 NORTH MICHIGAN AVENUE CHICAGO, ILLINOIS 60611 TELEPHONE 312-645-0251 FACSIMILE 312-645-0258 E-MAIL: DRUMSFELDRUMSFELD.COM January 22, 2001 Dear Andy: Thanks so much for your thoughtful”"
 }

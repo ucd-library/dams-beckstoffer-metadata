@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_019-01_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Beckstoffer Vineyards at A Glance.” Visible text begins: “BECKSTOFFER VINEYARDS Post OFFIcE Box 405 RUTHERFORD, CALIFORNIA 94573 PHONE 707 963-9471 Fax 707 963-8849 BECKSTOFFER VINEYARDS — AT A GLANCE The largest, independent family-owned grapegrower on California’s”"
 }

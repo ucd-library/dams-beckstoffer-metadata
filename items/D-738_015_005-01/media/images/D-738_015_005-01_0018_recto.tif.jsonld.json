@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "035",
+  "schema:position": 35,
   "ebucore:filename": "D-738_015_005-01_0018_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 18 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 18 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes Italian Swiss Colony L/ 1589 Asti Sonoma 6 . Italian Swiss Colony”"
 }

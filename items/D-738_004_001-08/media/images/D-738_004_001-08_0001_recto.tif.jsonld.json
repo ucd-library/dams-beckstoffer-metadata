@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-08_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Archbishop of Los Angeles.” Visible text begins: “1531 WEST NINTH STREET LOS ANGELES, CALIFORNIA 90015-1194 July 19, 1991 OFFICE OF THE ARCHBISHOP Mr. W. Andrew Beckstoffer Melrose Lane St. Helena Napa Valley, CA 94574 Dear”"
 }

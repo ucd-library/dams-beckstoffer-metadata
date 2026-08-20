@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "017",
+  "schema:position": 17,
   "ebucore:filename": "D-738_015_005-02_0009_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 9 from “California Premium Wine: 10 Year Summary by Type,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “CALIFORNIA PREMIUM DRY WINES Calendar 1968 Cases In Thousands 2667 712.8% 1500 %GC-NT HT %6L - Wet eT C$e6tcd 6LT$ % 69T$ “6STS a MbTeqetzeN sotreuey 2gq ueTysTayD”"
 }

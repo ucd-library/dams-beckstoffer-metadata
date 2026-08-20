@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "011",
+  "schema:position": 11,
   "ebucore:filename": "D-738_002_001-03_0006_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 11 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “ew rr pit) OO) tema 37 ue eo . a LY, ee por Fo go wee 6 fess isc TED V2 S&UNTHEAL FAST FIELD PEP (2 202E CALIFORNIA”"
 }

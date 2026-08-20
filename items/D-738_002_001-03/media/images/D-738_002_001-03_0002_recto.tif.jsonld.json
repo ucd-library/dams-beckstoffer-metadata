@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_002_001-03_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “California grapes will be available and there are signs that the market price will begin to decline. /970 C2 f4 ey cmonved Star Mae: JGnue tdFf - Ye”"
 }

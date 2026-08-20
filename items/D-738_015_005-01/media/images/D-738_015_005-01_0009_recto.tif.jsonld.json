@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "017",
+  "schema:position": 17,
   "ebucore:filename": "D-738_015_005-01_0009_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 9 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 9 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes Husch Vineyards 4558 Yes Philo Mendocino 6 inglenook Vineyards Co. (see United”"
 }

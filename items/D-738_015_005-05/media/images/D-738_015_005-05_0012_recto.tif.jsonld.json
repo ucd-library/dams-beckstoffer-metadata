@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "023",
+  "schema:position": 23,
   "ebucore:filename": "D-738_015_005-05_0012_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 12 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “WHITES 1971 Tons Produced : Bearing F Acres Chenin Blanc 2529.63 : 700 ae hes Blanc 962.30 : 382 Pinot Chardonnay 942.66 ; 485 Gewurztraminer 269.80 al 140”"
 }

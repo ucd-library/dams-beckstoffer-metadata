@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "002",
+  "schema:position": 4,
   "ebucore:filename": "D-738_004_001-14_0002_verso.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Blank reverse of Gerald R. Ford's letter, with a faint embossed eagle visible near the top."
 }

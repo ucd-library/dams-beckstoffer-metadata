@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "029",
+  "schema:position": 29,
   "ebucore:filename": "D-738_015_005-01_0015_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 15 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 15 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes San Joaquin Warehousing, Inc, 3339 No Lodi San Joaquin 5 D 5-30-73”"
 }

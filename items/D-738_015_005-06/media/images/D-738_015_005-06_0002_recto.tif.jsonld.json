@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_015_005-06_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “Zoning of Napa County Wineries.” Visible text begins: “SMALL WINERIES (26) MEDIUM WINERIES (13) LARGE WINERIES (19) 58 Total AP Zoning of Napa County Wineries AWR PD December 1976 Miscellaneous Cakebread Cellars Villa Mt. Eden Caymus”"
 }

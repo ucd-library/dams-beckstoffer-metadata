@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "020",
+  "schema:position": 20,
   "ebucore:filename": "D-738_002_001-03_0010_verso.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Blank reverse side of leaf 10 from “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?,” with faint paper texture, bleed-through, or scan marks visible."
 }

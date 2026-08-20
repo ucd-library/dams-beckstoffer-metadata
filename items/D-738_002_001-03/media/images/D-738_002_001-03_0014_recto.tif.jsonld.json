@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "027",
+  "schema:position": 27,
   "ebucore:filename": "D-738_002_001-03_0014_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 27 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “PACIFIC VINEYARDS oebUL, NHAE TE: : Grape prices average $100 per ton rather than the projected $156 (Gallo minimums are $75 a aae per ton). ae Per acre”"
 }

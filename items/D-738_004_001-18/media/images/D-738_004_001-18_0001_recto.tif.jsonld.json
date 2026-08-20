@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-18_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from the Commissoner of Major League Baseball.” Visible text begins: “Office of the Commissioner MAJOR LEAGUE BASEBALL PETER V. UEBERROTH Commissioner August 12, 1988 Mr. and Mrs. Andrew Beckstoffer P.O. Box 990 St. Helena, CA 94574 Dear Andy”"
 }

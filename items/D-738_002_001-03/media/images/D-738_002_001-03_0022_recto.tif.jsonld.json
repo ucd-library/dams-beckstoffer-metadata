@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "043",
+  "schema:position": 43,
   "ebucore:filename": "D-738_002_001-03_0022_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 43 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “2413 1974 Bots INGLENOOK ; LESS LESS OVER % GROWERS A.G.G. TOTAL ..0.C (SHORT) OVER Cbrnet. Sauvignon 846 606 1,452 1,872 420 29% Pinot Noir 222 Soy 579”"
 }

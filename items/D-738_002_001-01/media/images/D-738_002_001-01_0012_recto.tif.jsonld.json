@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "023",
+  "schema:position": 23,
   "ebucore:filename": "D-738_002_001-01_0012_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 23 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “VINIFERA DEVELOPMENT CORPORATION FUTURE EXPECTATIONS UNDER PRESENT VDC CHARTER Additional Napa vineyards through acquisition and conversion of existing aged vineyards. Reduced outside investor activity. Primarily farm operation. Farm”"
 }

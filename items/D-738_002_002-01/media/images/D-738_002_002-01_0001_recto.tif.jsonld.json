@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_002_002-01_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Murray.” Visible text begins: “3 SYLVAN ROAD SOUTH, WESTPORT, CONNECTICUT 06881 CABLE ADDRESS SPENSTU, WESTPORT 203-226-4201 SPENCER STUART & ASSOCIATES MANAGEMENT CONSULTANTS EXECUTIVE SEARCHES Personal and Confidential November 15, 1971 Dear Andy:”"
 }

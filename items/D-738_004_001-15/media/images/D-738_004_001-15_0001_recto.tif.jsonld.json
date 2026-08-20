@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-15_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Jimmy Carter.” Visible text begins: “JIMMY CARTER June 12,1887 To Andrew Beckstoffer Rosalynn and I are pleased that we will be able to join you at the YPO University in Kauai in February”"
 }

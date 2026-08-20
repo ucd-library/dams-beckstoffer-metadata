@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "049",
+  "schema:position": 49,
   "ebucore:filename": "D-738_015_005-01_0025_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 25 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Changes In Counts - 1973 BW Master List Changes due to Counts Additions Deletion Otherd/ Net Change 1972 1973 Number of Firms 28 -11 1 18 207 225”"
 }

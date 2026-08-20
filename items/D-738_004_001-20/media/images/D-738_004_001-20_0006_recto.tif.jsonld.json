@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_004_001-20_0006_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “Correspondence: Problems of the direct planting of Cabernet European Rooted Cuttings Versus Establishing of Cabernet Vineyard on Certified American Root Stocks.” Visible text begins: “ESTATE BOTTLED NAPA VALLEY WINES ESTABLISHED 1900 GEORGES DE LATOUR, FOUNDER H. DE LATOUR DE PINS, PRESIDENT D. DE PINS SULLIVAN, SECRETARY VINEYARDS AND WINERY RUTHERFORD, NAPA COUNTY,”"
 }

@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-16_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Jimmy Carter.” Visible text begins: “i JIMMY CARTER September 28, 1989 To Andrew Beckstoffer Thank you for your recent letter. Your kind words and support mean a great deal to me. Rosalynn joins”"
 }

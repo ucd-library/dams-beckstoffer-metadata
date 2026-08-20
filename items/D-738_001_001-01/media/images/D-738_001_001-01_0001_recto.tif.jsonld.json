@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_001_001-01_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Beaulieu Vineyard Grape Sale Agreement with Mr. and Mrs. John Kobil.” Visible text begins: “AGREEMENT FOR THE SALE OF GRAPES THIS AGREEMENT made this jo1) day of February 5 AES between Mr. &Mrs John Kobil hereinafter called SELLER, and BEAULIEU VINEYARD, a”"
 }

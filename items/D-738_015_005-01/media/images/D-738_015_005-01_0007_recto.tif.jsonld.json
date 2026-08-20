@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "013",
+  "schema:position": 13,
   "ebucore:filename": "D-738_015_005-01_0007_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 7 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Page 7 Premise W.I. Stat. Firm & Premise Name Number Member Premise Location County District Notes Gallo Winery, E. & J. Yes Gallo Winery, E. & J. 172”"
 }

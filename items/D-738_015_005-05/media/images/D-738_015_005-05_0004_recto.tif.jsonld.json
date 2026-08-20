@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "007",
+  "schema:position": 7,
   "ebucore:filename": "D-738_015_005-05_0004_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 4 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Gamay Beaujolais Napa Gamay Pinot Noir Cabernet Sauvignon Zinfandel Merlot Alicante Bouschet Early Burgundy Carignane jondeuse Grand Noir Petite Sirah BLACKS Average Price 1968 1969 1970 er 275”"
 }

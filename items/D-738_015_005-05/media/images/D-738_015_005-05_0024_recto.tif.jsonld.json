@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "047",
+  "schema:position": 47,
   "ebucore:filename": "D-738_015_005-05_0024_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 24 from “Statistical Information on Wine Grapes Grown in Napa County as of 3/75,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Average Tons/Acre VARIETY Chenin Blanc Sauvignon Blanc Pinet Chardonnay Gewurztreminer Muscats Grey Riesling Johann. Riesling Semillon Sylvaner Burger French Colombard Green Hungarian . Golden Chasselas Sauvignon Vert Gama;”"
 }

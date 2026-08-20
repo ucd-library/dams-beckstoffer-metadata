@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "DD-738_004_001-10_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Letter to Beckstoffer from Archbishop of San Francisco.” Visible text begins: “49S THE ARCHDIOCESE OF SAN FRANCISCO PASTORAL CENTER Al OFFICE OF THE ARCHBISHOP ) d( 445 CHURCH STREET, SAN FRANCISCO, CALIFORNIA 94114-1799 (415) 565-3600 dl iD November 24,”"
 }

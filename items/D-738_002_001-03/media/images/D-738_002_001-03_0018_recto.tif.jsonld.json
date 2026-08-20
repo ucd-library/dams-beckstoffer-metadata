@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "035",
+  "schema:position": 35,
   "ebucore:filename": "D-738_002_001-03_0018_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 35 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “VINEYARD COST COMPARISONS 1968 BEAULIEU VINEYARD VERSUS W. FOX AVERAGE COST PRESENTATION (PREPARED 1969) Cultivate and Hand Hoe Prune, Tie, Trim and Brush Removal Miscellaneous Labor, Materials, Suckering,”"
 }

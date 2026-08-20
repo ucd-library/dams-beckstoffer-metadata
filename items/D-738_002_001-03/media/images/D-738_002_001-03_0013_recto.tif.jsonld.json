@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "025",
+  "schema:position": 25,
   "ebucore:filename": "D-738_002_001-03_0013_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 25 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “(pr tt ne et tee ey f ft Wl i wl vie m a eGiks Wi welitg bheded saaked 1971 1972 1973 1974 1975 1976 LOTT 1978 1979”"
 }

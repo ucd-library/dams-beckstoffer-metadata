@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "039",
+  "schema:position": 39,
   "ebucore:filename": "D-738_002_001-03_0020_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 39 of “What's Happening in the California Vineyard Buisness, particularly in the Napa Valley?.” Visible text begins: “Vinifera projects availability of forecasted top varietal grape requirements in excess of 600,000 Beaulieu case sales and Inglenook 1976-80 requirements. . 0 - 1973 - 72 b7e ave”"
 }

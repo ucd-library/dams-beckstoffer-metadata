@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "013",
+  "schema:position": 13,
   "ebucore:filename": "D-738_002_001-01_0007_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 13 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “VINIFERA DEVELOPMENT CORPORATION HEUBLEIM CAPITAL _1MVESTMENMT_ UKIAH LAMO VIKIES 883,000 MACHINERY EQP7- 33, 006 HOUSING 56 000 972, 000 NAPA LEASE HOLD IMPROVEMENTS 2/5 ,000 MACHINERY EQOP'T: L6”"
 }

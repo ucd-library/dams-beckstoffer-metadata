@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_004_001-21_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Correspondence: Thank You Note to Betty and Andy.” Visible text begins: “a Senator Dianne Feinstein Mashington, D.C. July 1, 2012 Dear Betty & Andy, I would like to express my sincere gratitude for all of your efforts on my”"
 }

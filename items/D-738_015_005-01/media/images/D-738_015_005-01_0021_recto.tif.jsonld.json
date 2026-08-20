@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "041",
+  "schema:position": 41,
   "ebucore:filename": "D-738_015_005-01_0021_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 21 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Wine Producers and Blenders Basic Permit Pagel Firms which were also in operation in 1972 Premise W.I. Premise Stat. Effectiv Firm & Premise Name Number Member Location District”"
 }

@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "043",
+  "schema:position": 43,
   "ebucore:filename": "D-738_015_005-01_0022_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Table page 22 from “Bonded Wineries and Bonded Wine Cellars Authorized to Operate, Master List,” presenting rows and columns of wine-industry data. Visible headings and entries begin: “Wine Producers and Blenders Basic Permit AC CIN ARE IE ST AE Page 2 Premise W.I. Premise Stat. Effective Firm & Premise Name Number Member Location District Datel”"
 }

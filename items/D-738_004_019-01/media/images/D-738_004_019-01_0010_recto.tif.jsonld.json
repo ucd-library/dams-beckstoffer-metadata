@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "017",
+  "schema:position": 17,
   "ebucore:filename": "D-738_004_019-01_0010_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 17 of “Beckstoffer Vineyards at A Glance.” Visible text begins: “Vineyards with Pedigree The Dejon variety chardonnay and pinot noir clones are proving to be a major improvement to prior heavier bearing clones. The “spice rack” concept of”"
 }

@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "015",
+  "schema:position": 15,
   "ebucore:filename": "D-738_002_001-01_0008_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 15 of “Future of Vinifera and Heublein in Farming.” Visible text begins: “6/2/72 UKIAH VINIFERA DEVELOPMENT CORPORATION LATEST 1973 INCOME STATEMENT Crop Revenues $371,000 Cost of Farming 159,000 Gross Farming Profit $212,000 Crop Revenues (Leaseholds) $162,000 Cost of Farming 111,000”"
 }

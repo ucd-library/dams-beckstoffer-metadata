@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "009",
+  "schema:position": 9,
   "ebucore:filename": "D-738_004_008-01_0005_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 9 of “America's Great Outdoors Listening Sessions: Comments of W. Andrew Beckstoffer.” Visible text begins: “first Conservation Easement until 2006 when the law changed, the Land Trust accepted 63 Conservation Easements, six of which were prime vineyard properties. Two of these vineyard properties”"
 }

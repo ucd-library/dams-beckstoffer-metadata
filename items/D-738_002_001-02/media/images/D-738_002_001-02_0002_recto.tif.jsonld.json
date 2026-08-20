@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "003",
+  "schema:position": 3,
   "ebucore:filename": "D-738_002_001-02_0002_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 3 of “Heublein, Inc. Summary Comments on Forecasts of Vinifera Development Corporation.” Visible text begins: “ARTHUR YOUNG & COMPANY CROCKER PLAZA POST AT MONTGOMERY SAN FRANCISCO, CALIFORNIA 94104 Mr. Gene R. Ehnen Vice President and Controller Heublein, Inc. Hartford, Connecticut Dear Mr. Ehnen:”"
 }

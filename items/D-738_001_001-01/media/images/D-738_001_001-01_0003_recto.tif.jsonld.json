@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "005",
+  "schema:position": 5,
   "ebucore:filename": "D-738_001_001-01_0003_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 5 of “Beaulieu Vineyard Grape Sale Agreement with Mr. and Mrs. John Kobil.” Visible text begins: “: 6. All of said grapes shall be delivered at times when the same can be crushed or utilized by Buyer taking into consideration its facilities and other”"
 }

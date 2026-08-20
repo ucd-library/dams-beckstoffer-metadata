@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "001",
+  "schema:position": 1,
   "ebucore:filename": "D-738_015_005-06_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Cover page 1 of “Zoning of Napa County Wineries.” Visible text begins: “THE UNITED STATES WINE MERCHANT IS NOT AN IMPORTANT PARTICIPANT IN THE WORLD WINE MARKET. ITALY FRANCE SPAIN PORTUGAL RUMANIA WEST GERMANY U.S. S.8. ARGENTINA UNITED STATES TURKEY”"
 }

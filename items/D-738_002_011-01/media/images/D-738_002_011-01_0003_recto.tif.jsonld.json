@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "005",
+  "schema:position": 5,
   "ebucore:filename": "D-738_002_011-01_0003_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 5 of “Development of an Economic Formula for Pricing Premium Varietal Grapes of the Napa Valley: Executive Summary.” Visible text begins: “Pricing Formula Prerequisites We conclude that the formula we devised is the most suitable method of approach, but because of the market conditions for premium varietal rapes in.”"
 }

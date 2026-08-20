@@ -14,7 +14,8 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:position": "005",
+  "schema:position": 5,
   "ebucore:filename": "D-738_004_001-05_0003_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Scanned document page 5 of “Correspondence: Keig Property Vineyard Recommendations and Meeting Minutes.” Visible text begins: “Keig Property Meeting of December 6, 1970 Page Two 4. As a result of a physical inspection of the property, and discussion between Andre Tchelistcheff and Dr. Olmo,”"
 }
