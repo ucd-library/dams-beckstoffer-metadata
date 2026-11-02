@@ -27,7 +27,7 @@
   ],
   "schema:creator": "Rumsfeld, Donald, 1932-2021",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2001-01-22"
   },
   "schema:description": "A letter from Donald Rumsfeld upon his appointment to Secretary of Defense.",

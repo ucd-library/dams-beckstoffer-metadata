@@ -30,7 +30,7 @@
   ],
   "schema:creator": "Knowles, L. F. Jr.",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1972-12-21"
   },
   "schema:description": "Letter from L. F. Knowles Jr. to C. W. Carriuolo about Andre Tchelistcheff.",

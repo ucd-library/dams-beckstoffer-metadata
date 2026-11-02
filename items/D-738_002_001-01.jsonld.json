@@ -30,7 +30,7 @@
   ],
   "schema:creator": "Vinifera Development Corporation",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1972-06-13"
   },
   "schema:description": "Report for Heublein: \"What continuing position should Heublein take regarding its involvement in agricultural land holding and farm operation in California Vineyards?\"",

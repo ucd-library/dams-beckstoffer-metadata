@@ -30,7 +30,7 @@
   ],
   "schema:creator": "Beckstoffer, W. Andrew",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1970-12-17"
   },
   "schema:description": "Minutes from a meeting regarding the Keig Property Vineyard. Attendees at this meeting included H. P. Olmo, and André Tchelistcheff",

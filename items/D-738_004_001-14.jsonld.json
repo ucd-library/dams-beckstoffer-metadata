@@ -27,7 +27,7 @@
   ],
   "schema:creator": "Ford, Gerald R., 1913-2006",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1987-07-06"
   },
   "schema:description": "A letter from Gerald Ford regarding participation at a YPO event in Hawaii.",

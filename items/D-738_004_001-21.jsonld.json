@@ -27,7 +27,7 @@
   ],
   "schema:creator": "Feinstein, Dianne, 1933-2023",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2012-07-01"
   },
   "schema:description": "A letter from California senator Dianne Feinstein.",

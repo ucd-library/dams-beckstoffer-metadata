@@ -30,7 +30,7 @@
   ],
   "schema:creator": "Thompson, Mike",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1997-11-12"
   },
   "schema:description": "A letter of congratulations from State Senator Mike Thompson for the Integrated Pest Management Innovator Award.",

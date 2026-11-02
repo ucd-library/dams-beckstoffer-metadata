@@ -33,7 +33,7 @@
   ],
   "schema:creator": "United Vintners, Inc.",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1971-08-18"
   },
   "schema:description": "Purchase agreement between United Vintners, Inc. and United Farm Workers organizing committee",

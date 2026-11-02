@@ -33,7 +33,7 @@
   ],
   "schema:creator": "Beckstoffer, W. Andrew",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1970-11-20"
   },
   "schema:description": "Memo regarding the development of a standardized contract for Napa growers.",

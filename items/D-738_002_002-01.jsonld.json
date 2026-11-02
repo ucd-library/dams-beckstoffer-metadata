@@ -24,7 +24,7 @@
   ],
   "schema:creator": "Murray, G. H., Jr.",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1971-11-15"
   },
   "schema:description": "A character analysis on Beckstoffer from a management consultant firm.",

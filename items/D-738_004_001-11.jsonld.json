@@ -30,7 +30,7 @@
   ],
   "schema:creator": "Thompson, Mike",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1996-11-26"
   },
   "schema:description": "A letter regarding testimony for the Senate Select Committee on California's Wine Industry.",

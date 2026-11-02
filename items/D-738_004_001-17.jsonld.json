@@ -27,7 +27,7 @@
   ],
   "schema:creator": "Stone, Michael P. W. (Michael Patrick William), 1925-1995",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1991-04-05"
   },
   "schema:description": "A letter from Michael P. W. Stone, Secretary of the Army.",

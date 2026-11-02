@@ -33,7 +33,7 @@
   ],
   "schema:creator": "Tchelistcheff, André, 1901-1994",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1970-12-08"
   },
   "schema:description": "Letter from Andre Tchelistcheff to Andy Beckstoffer regarding replanting of vineyard at Vinifera Development Ranch in Rutherford.",

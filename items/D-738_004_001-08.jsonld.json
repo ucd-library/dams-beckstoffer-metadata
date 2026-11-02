@@ -30,7 +30,7 @@
   ],
   "schema:creator": "Mahony, Roger",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1991-07-19"
   },
   "schema:description": "A letter from the Archbishop of Los Angeles regarding his appointment to the College of Cardinals.",

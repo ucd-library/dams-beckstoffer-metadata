@@ -27,7 +27,7 @@
   ],
   "schema:creator": "Carter, Jimmy, 1924-2024",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1989-09-28"
   },
   "schema:description": "A thank you letter from Jimmy Carter.",

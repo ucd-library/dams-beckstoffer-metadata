@@ -34,7 +34,7 @@
   "schema:creator": "Napa County Assessor's Office",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
-    "@value": "1975-3"
+    "@value": "1975-03"
   },
   "schema:description": "Information on grapes by variety, using data from 1967 to 1974.",
   "schema:identifier": [

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": 1,
+  "ebucore:filename": "Beckstoffer_digital_collection_image.jpeg",
+  "ebucore:hasMimeType": "image/jpeg",
+  "schema:alternativeHeadline": "A man stands beside a wooden sign reading “BECKSTOFFER VINEYARDS” and “TO KALON,” with a decorative B and grape motif. Rows of bare grapevines and wooded hills extend behind him under a blue sky.",
+  "schema:name": "Beckstoffer Vineyards at To Kalon"
+}

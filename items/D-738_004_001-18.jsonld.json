@@ -27,7 +27,7 @@
   ],
   "schema:creator": "Ueberroth, Peter V.",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1988-08-12"
   },
   "schema:description": "A letter from Peter Ueberroth following his resignation announcement in June 1988.  ",
@@ -41,7 +41,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Correspondence: Letter to Beckstoffer from the Commissoner of Major League Baseball",
+  "schema:name": "Correspondence: Letter to Beckstoffer from the Commissioner of Major League Baseball",
   "schema:material": "",
   "schema:publisher": ""
 }

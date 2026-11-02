@@ -30,7 +30,7 @@
   ],
   "schema:creator": "Wentworth, Rand",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2006-10-17"
   },
   "schema:description": "A letter about the passage of the Pension Protection Act of 2006.",

@@ -27,7 +27,7 @@
   ],
   "schema:creator": "Beckstoffer, W. Andrew",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2010-07-07"
   },
   "schema:description": "Comments of W. Andrew Beckstoffer before Listening Sessions on America's Great Outdoors at UC Davis.",
