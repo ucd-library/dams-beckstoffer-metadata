@@ -12,7 +12,7 @@
   "@type": [
     "schema:CreativeWork",
     "schema:ImageObject",
-    "<http://fedora.info/definitions/v4/repository#ArchivalGroup>"
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
     "@id": "@base:/media/D-738_004_019-01.pdf"
